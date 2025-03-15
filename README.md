@@ -106,14 +106,6 @@ i feel romantic too;love
 - **label_encoder.pkl:** Contains the label encoder used to decode numerical predictions to actual emotions.
 - **vocab_info.pkl:** (if applicable) Contains additional vocabulary details used during training.
 
-## Contribution
-
-Feel free to fork the repository and submit pull requests for improvements. When contributing, please adhere to the following:
-
-- Maintain code style consistency.
-- Ensure that any UI modifications do not break the application.
-- Update documentation as necessary.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
